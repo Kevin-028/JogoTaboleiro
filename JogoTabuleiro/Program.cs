@@ -6,6 +6,4 @@ app.MapGet("/", () => "Hello World!");
 
 app.Run();
 
-var teste = "dasdas";
-
-var teste2 = "dasda";
+var teste = "dasdas"

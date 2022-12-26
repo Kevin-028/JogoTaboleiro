@@ -1,6 +1,0 @@
-C:\Users\kevin\source\repos\JogoTabuleiro\JogoTabuleiro\obj\Debug\net7.0\JogoTabuleiro.csproj.AssemblyReference.cache
-C:\Users\kevin\source\repos\JogoTabuleiro\JogoTabuleiro\obj\Debug\net7.0\JogoTabuleiro.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kevin\source\repos\JogoTabuleiro\JogoTabuleiro\obj\Debug\net7.0\JogoTabuleiro.AssemblyInfoInputs.cache
-C:\Users\kevin\source\repos\JogoTabuleiro\JogoTabuleiro\obj\Debug\net7.0\JogoTabuleiro.AssemblyInfo.cs
-C:\Users\kevin\source\repos\JogoTabuleiro\JogoTabuleiro\obj\Debug\net7.0\JogoTabuleiro.csproj.CoreCompileInputs.cache
-C:\Users\kevin\source\repos\JogoTabuleiro\JogoTabuleiro\obj\Debug\net7.0\JogoTabuleiro.MvcApplicationPartsAssemblyInfo.cache
