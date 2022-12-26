@@ -5,4 +5,6 @@ app.MapGet("/", () => "Hello World!");
 
 app.Run();
 
-var teste = "dasdas"
+var teste = "dasdas";
+
+var Gustavo = "viado";
