@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\source\\repos\\JogoTabuleiro\\JogoTabuleiro\\JogoTabuleiro.csproj": {}
+    "C:\\Users\\gutoo\\Downloads\\Jogo_Rapaziada\\JogoTaboleiro\\JogoTaboleiro\\JogoTabuleiro\\JogoTabuleiro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\source\\repos\\JogoTabuleiro\\JogoTabuleiro\\JogoTabuleiro.csproj": {
+    "C:\\Users\\gutoo\\Downloads\\Jogo_Rapaziada\\JogoTaboleiro\\JogoTaboleiro\\JogoTabuleiro\\JogoTabuleiro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\source\\repos\\JogoTabuleiro\\JogoTabuleiro\\JogoTabuleiro.csproj",
+        "projectUniqueName": "C:\\Users\\gutoo\\Downloads\\Jogo_Rapaziada\\JogoTaboleiro\\JogoTaboleiro\\JogoTabuleiro\\JogoTabuleiro.csproj",
         "projectName": "JogoTabuleiro",
-        "projectPath": "C:\\Users\\kevin\\source\\repos\\JogoTabuleiro\\JogoTabuleiro\\JogoTabuleiro.csproj",
-        "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\source\\repos\\JogoTabuleiro\\JogoTabuleiro\\obj\\",
+        "projectPath": "C:\\Users\\gutoo\\Downloads\\Jogo_Rapaziada\\JogoTaboleiro\\JogoTaboleiro\\JogoTabuleiro\\JogoTabuleiro.csproj",
+        "packagesPath": "C:\\Users\\gutoo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gutoo\\Downloads\\Jogo_Rapaziada\\JogoTaboleiro\\JogoTaboleiro\\JogoTabuleiro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gutoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,20 +45,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
